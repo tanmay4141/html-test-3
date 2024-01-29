@@ -1,1 +1,1 @@
-alert('hello user')
+alert('hello user new user')
